@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jerry&#39;s Website</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-05-07T06:26:56.861Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Jerry He</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The Louvain method</title>
+    <link href="http://example.com/2023/09/11/louvain/"/>
+    <id>http://example.com/2023/09/11/louvain/</id>
+    <published>2023-09-11T07:09:47.000Z</published>
+    <updated>2024-05-07T06:26:56.861Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;The-Louvain-Algorithm&quot;&gt;&lt;a href=&quot;#The-Louvain-Algorithm&quot; class=&quot;headerlink&quot; title=&quot;The Louvain Algorithm&quot;&gt;&lt;/a&gt;The Louvain Algorithm&lt;/h1&gt;&lt;p&gt;The exploration of community structure within networks is a fundamental task in network analysis. Communities, or clusters, represent groups of nodes that are densely connected internally while having sparse connections with nodes outside the community. Understanding these structures provides insights into the underlying organization and function of complex systems, ranging from social networks to biological networks.&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>pageRank</title>
+    <link href="http://example.com/2023/09/11/pagerank/"/>
+    <id>http://example.com/2023/09/11/pagerank/</id>
+    <published>2023-09-11T07:09:47.000Z</published>
+    <updated>2024-05-07T06:26:37.794Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Here we will cover PageRank and personalized PageRank computation.&lt;br&gt;The main idea is that, a page is more important if it has more links.&lt;br&gt;We usually think in-links are more important than out-links. &lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2023/02/27/review/"/>
+    <id>http://example.com/2023/02/27/review/</id>
+    <published>2023-02-27T08:14:51.047Z</published>
+    <updated>2023-08-05T02:02:18.096Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Course Title: PostgreSQL for Beginners - Getting Started from Linux&lt;/p&gt;
+&lt;p&gt;Module 1: Introduction to Databases and</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2023/01/12/index/"/>
+    <id>http://example.com/2023/01/12/index/</id>
+    <published>2023-01-12T06:09:47.000Z</published>
+    <updated>2024-05-07T05:49:17.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;/blogs/test&quot;&gt;Generate latex tables easily&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;/blogs/case&quot;&gt;Python source code for case</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Case study</title>
+    <link href="http://example.com/2023/01/12/case/"/>
+    <id>http://example.com/2023/01/12/case/</id>
+    <published>2023-01-12T06:09:47.000Z</published>
+    <updated>2024-05-07T05:56:14.134Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!-- &lt;div id=&quot;my_dataviz&quot;&gt;This is a div&lt;/div&gt; --&gt;
+
+
+&lt;!-- &lt;div id=&quot;my_dataviz&quot;&gt;This is a div&lt;/div&gt; --&gt;
+&lt;h1 id=&quot;Case-study&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>This website can be used to generate latex tables easily.</title>
+    <link href="http://example.com/2023/01/12/test/"/>
+    <id>http://example.com/2023/01/12/test/</id>
+    <published>2023-01-12T06:09:47.000Z</published>
+    <updated>2023-01-16T02:26:11.413Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://tableconvert.com/latex-generator&quot;&gt;https://tableconvert.com/latex-generator&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here is some sample sql</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Switching between different conferences</title>
+    <link href="http://example.com/2023/01/12/Switching-between-different-conferences/"/>
+    <id>http://example.com/2023/01/12/Switching-between-different-conferences/</id>
+    <published>2023-01-12T05:50:40.000Z</published>
+    <updated>2024-05-07T05:50:06.889Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Switching-between-different-conferences&quot;&gt;&lt;a href=&quot;#Switching-between-different-conferences&quot; class=&quot;headerlink&quot; title=&quot;Switching</summary>
+        
+      
+    
+    
+    
+    
+    <category term="blog" scheme="http://example.com/tags/blog/"/>
+    
+  </entry>
+  
+</feed>
