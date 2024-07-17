@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-05-07T06:26:56.861Z</updated>
+  <updated>2023-08-05T02:02:18.096Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,36 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>The Louvain method</title>
-    <link href="http://example.com/2023/09/11/louvain/"/>
-    <id>http://example.com/2023/09/11/louvain/</id>
-    <published>2023-09-11T07:09:47.000Z</published>
-    <updated>2024-05-07T06:26:56.861Z</updated>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;The-Louvain-Algorithm&quot;&gt;&lt;a href=&quot;#The-Louvain-Algorithm&quot; class=&quot;headerlink&quot; title=&quot;The Louvain Algorithm&quot;&gt;&lt;/a&gt;The Louvain Algorithm&lt;/h1&gt;&lt;p&gt;The exploration of community structure within networks is a fundamental task in network analysis. Communities, or clusters, represent groups of nodes that are densely connected internally while having sparse connections with nodes outside the community. Understanding these structures provides insights into the underlying organization and function of complex systems, ranging from social networks to biological networks.&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>pageRank</title>
-    <link href="http://example.com/2023/09/11/pagerank/"/>
-    <id>http://example.com/2023/09/11/pagerank/</id>
-    <published>2023-09-11T07:09:47.000Z</published>
-    <updated>2024-05-07T06:26:37.794Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Here we will cover PageRank and personalized PageRank computation.&lt;br&gt;The main idea is that, a page is more important if it has more links.&lt;br&gt;We usually think in-links are more important than out-links. &lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title></title>
@@ -73,7 +43,7 @@
     <link href="http://example.com/2023/01/12/index/"/>
     <id>http://example.com/2023/01/12/index/</id>
     <published>2023-01-12T06:09:47.000Z</published>
-    <updated>2024-05-07T05:49:17.000Z</updated>
+    <updated>2024-07-17T05:59:04.016Z</updated>
     
     
       
