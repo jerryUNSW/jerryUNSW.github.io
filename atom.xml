@@ -63,31 +63,6 @@
   </entry>
   
   <entry>
-    <title>Case study</title>
-    <link href="http://example.com/2023/01/12/case/"/>
-    <id>http://example.com/2023/01/12/case/</id>
-    <published>2023-01-12T06:09:47.000Z</published>
-    <updated>2024-05-07T05:56:14.134Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!-- &lt;div id=&quot;my_dataviz&quot;&gt;This is a div&lt;/div&gt; --&gt;
-
-
-&lt;!-- &lt;div id=&quot;my_dataviz&quot;&gt;This is a div&lt;/div&gt; --&gt;
-&lt;h1 id=&quot;Case-study&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>This website can be used to generate latex tables easily.</title>
     <link href="http://example.com/2023/01/12/test/"/>
     <id>http://example.com/2023/01/12/test/</id>
