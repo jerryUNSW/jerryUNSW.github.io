@@ -14,16 +14,6 @@ His research interests lie in **graph mining**, **privacy-preserving computation
 
 ---
 
-## Awards & Honors
-
-- **Early Career Academic Fellowship (ECAF)**, UNSW, Aug 2025
-- **Chinese Government Award for Outstanding Self-Financed Students Abroad (Category A)**, Jun 2025
-- **HDR Development and Research Training Grant (DRTG)**, Oct 2023 & Apr 2024
-- **Top-up Scholarship for Outstanding Research Performance**, UNSW, Nov 2022
-- **University International Postgraduate Award (UIPA)**, UNSW, Jun 2021
-
----
-
 ## News
 
 - **Jun 2026**: Joined Shanghai Jiao Tong University as Associate Professor in the Global College.
@@ -65,3 +55,13 @@ Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA
 ## <span id="service">Academic Service</span>
 
 - **Reviewer**: ICDE, SIGMOD, VLDBJ, TKDE
+
+---
+
+## Selected Awards
+
+- **Early Career Academic Fellowship (ECAF)**, UNSW, Aug 2025
+- **Chinese Government Award for Outstanding Self-Financed Students Abroad (Category A)**, Jun 2025
+- **HDR Development and Research Training Grant (DRTG)**, Oct 2023 & Apr 2024
+- **Top-up Scholarship for Outstanding Research Performance**, UNSW, Nov 2022
+- **University International Postgraduate Award (UIPA)**, UNSW, Jun 2021
