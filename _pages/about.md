@@ -18,11 +18,29 @@ His research interests lie in **graph mining**, **privacy-preserving computation
 
 Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ).
 
-{% include base_path %}
+**Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang, Wei Ni. Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2025.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2025.
+
+Yuting Zhang, Wei Ni, Kai Wang, **Yizhang He**, Conggai Li. Truss Decomposition Under Edge Local Differential Privacy, IEEE International Conference on Data Engineering (ICDE), pages 2670-2683, 2025.
+
+Shunyang Li, Kai Wang, Wenjie Zhang, Xuemin Lin, **Yizhang He**. Efficient Bitruss Decomposition on GPU, IEEE Transactions on Knowledge and Data Engineering (TKDE), 37(8): 4578-4590, 2025.
+
+**Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. Discovering Critical Vertices for Reinforcement of Large-scale Bipartite Networks, The VLDB Journal (VLDBJ), 33: 1861-1886, 2024.
+
+**Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Wei Ni, Ying Zhang. Butterfly Counting over Bipartite Graphs with Local Differential Privacy, IEEE International Conference on Data Engineering (ICDE), pages 2351-2364, 2024.
+
+Shunyang Li, Kai Wang, Xuemin Lin, Wenjie Zhang, **Yizhang He**, Long Yuan. Querying Historical Cohesive Subgraphs over Temporal Bipartite Graphs, IEEE International Conference on Data Engineering (ICDE), pages 2503-2516, 2024.
+
+**Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. Scaling Up k-Clique Densest Subgraph Detection, ACM SIGMOD International Conference on Management of Data (SIGMOD), 1(1): 1-26, 2023.
+
+Kai Wang, Gengda Zhao, Wenjie Zhang, Xuemin Lin, Ying Zhang, **Yizhang He**, Chunxiao Li. Cohesive Subgraph Discovery over Uncertain Bipartite Graphs, IEEE Transactions on Knowledge and Data Engineering (TKDE), 35(11): 11165-11179, 2023.
+
+**Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. Efficient Reinforcement of Bipartite Networks at Billion Scale, IEEE International Conference on Data Engineering (ICDE), pages 446-458, 2022.
+
+Gengda Zhao, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang, **Yizhang He**. Efficient Computation of Cohesive Subgraphs in Uncertain Bipartite Graphs, IEEE International Conference on Data Engineering (ICDE), pages 2333-2345, 2022.
+
+**Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. Exploring Cohesive Subgraphs with Vertex Engagement and Tie Strength in Bipartite Graphs, Information Sciences, 572: 277-296, 2021.
 
 ---
 
