@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at the [Global College](https://global.sjtu.edu.cn/) of [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/). Previously, I was an Associate Lecturer (Teaching & Research) in the [School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering) at [University of New South Wales (UNSW)](https://www.unsw.edu.au/), Sydney (Aug 2025 – Jun 2026). I am a member of the [Data and Knowledge Research Group](https://unswdb.github.io/). I obtained my PhD from UNSW in 2025, supervised by Scientia Prof. [Xuemin Lin](https://unswdb.github.io/people.html) and Prof. [Wenjie Zhang](https://unswdb.github.io/people.html).
+Yizhang He is currently an associate professor at the Global College of Shanghai Jiao Tong University. Before joining SJTU, he was an Associate Lecturer (Teaching & Research) in the School of Computer Science and Engineering at University of New South Wales from 2025 to 2026, and a Postdoctoral Fellow at UNSW in 2025. He got his Ph.D. from UNSW in 2025 and his bachelor's degree from UNSW in 2019, both in Computer Science and Data Science respectively.
 
 My research interests lie in **graph mining**, **privacy-preserving computation**, and **large language models**. In particular, I work on cohesive subgraph discovery, motif counting, and differential privacy for large-scale graph analytics. Link to [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ). Email: yizhang.he@unsw.edu.au.
 
