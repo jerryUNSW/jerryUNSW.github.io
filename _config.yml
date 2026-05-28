@@ -154,9 +154,9 @@ analytics:
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://github.com/jerryunsw
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: mailto:jerryheyizhang@sina.com
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: https://scholar.google.com/citations?user=AeA4sfcAAAAJ
