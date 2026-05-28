@@ -36,6 +36,9 @@ redirect_from:
 - **Casual Academic**, UNSW School of CSE (Dec 2024 – Aug 2025)  
   Teaching ZZEN9311 and COMP3311; marking and assessment.
 
+- **Teaching Assistant**, UNSW School of CSE (Jun 2020 – Oct 2024)  
+  Developed course materials, supervised tutorials, and held individual consultations for Database Systems, Intro to Data Science, Graph Analytics, and Big Data Management. Automated project marking and PostgreSQL configuration using Shell scripts. Demonstrated applications of graph neural networks, Word2Vec, Node2Vec, and Graph Convolutional Networks with PyTorch.
+
 ## Awards & Honors
 
 - **Early Career Academic Fellowship (ECAF)**, UNSW, Aug 2025
@@ -60,9 +63,16 @@ redirect_from:
 
 ## Teaching
 
-<ul>{% for post in site.teaching %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+### Courses as Lecturer
+- **COMP3311 Database Systems** — 2025 T3, 2026 T1
+- **ZZEN9311 Database Systems** — 2025 T3
+
+### Courses as Teaching Assistant
+- **Database Systems** (COMP9311) — 2020 T3; 2021 T1, T2; 2023 T2, T3
+- **Intro to Data Science** (DATA1001) — 2020 T2; 2021 T2
+- **Graph Analytics** (COMP9312) — 2021 T2; 2024 T2
+- **Big Data Management** (ZZEN9313 / COMP9313) — 2021 T3
+- **Preparation for COMP9311** (PREP9311) — 2021 Hex6
 
 ## Academic Service
 
