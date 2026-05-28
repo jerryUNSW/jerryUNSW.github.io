@@ -50,11 +50,11 @@ redirect_from:
 
 ## Research Interests
 
+- Big data analytics and large-scale graph algorithms
+- Large language models and privacy-preserving AI
 - Graph mining and cohesive subgraph computation
 - Motif counting in complex networks
 - Differential privacy (local and edge-LDP)
-- Privacy-preserving AI and LLMs
-- Large-scale graph algorithms
 
 ## Publications
 

@@ -10,7 +10,7 @@ redirect_from:
 
 Yizhang He is joining Shanghai Jiao Tong University as an associate professor at the Global College in June 2026. Before joining SJTU, he was an Associate Lecturer (Teaching & Research) in the School of Computer Science and Engineering at [University of New South Wales](https://www.unsw.edu.au/) from 2025 to 2026, and a Postdoctoral Fellow at UNSW in 2025. He got his Ph.D. in Computer Science from UNSW in 2025, his M.Phil. in Computer Science from UNSW in 2021, and his bachelor's degree in Data Science from UNSW in 2019.
 
-His research interests lie in **graph mining**, **privacy-preserving computation**, and **large language models**. In particular, he works on cohesive subgraph discovery, motif counting, and differential privacy for large-scale graph analytics.
+His research interests lie in **big data analytics**, **large language models**, and **privacy-preserving AI**. In particular, he works on graph mining, cohesive subgraph discovery, motif counting, and differential privacy for large-scale data systems.
 
 [Email](mailto:jerryheyizhang@sina.com) / [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ)
 
