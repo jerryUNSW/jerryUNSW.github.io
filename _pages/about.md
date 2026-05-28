@@ -45,7 +45,6 @@ Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA
 - Intro to Data Science (DATA1001) — 2020 T2; 2021 T2
 - Graph Analytics (COMP9312) — 2021 T2; 2024 T2
 - Big Data Management (ZZEN9313 / COMP9313) — 2021 T3
-- Preparation for COMP9311 (PREP9311) — 2021 Hex6
 
 ---
 
