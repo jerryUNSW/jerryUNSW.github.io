@@ -18,6 +18,8 @@ His research interests lie in **graph mining**, **privacy-preserving computation
 
 Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ).
 
+**Yizhang He**, Wenjie Zhang, Kai Wang, Xuemin Lin, Ying Zhang, Wei Ni. Efficient and Effective Biclique Counting with Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2026.
+
 **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang, Wei Ni. Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2025.
 
 **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2025.
