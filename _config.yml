@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Jerry He"
 title_separator          : "-"
 name                     : &name "Jerry He"
-description              : &description "Associate Lecturer at UNSW Sydney. Research in graph mining, differential privacy, and LLMs."
+description              : &description "Associate Professor at SJTU Global College. Research in graph mining, differential privacy, and LLMs."
 url                      : https://jerryunsw.github.io
 baseurl                  : ""
 repository               : "jerryunsw/jerryunsw.github.io"
@@ -23,9 +23,9 @@ author:
   avatar           : "profile.png"
   name             : "Yizhang (Jerry) He"
   pronouns         : 
-  bio              : "Associate Lecturer (Teaching & Research) at UNSW Sydney"
-  location         : "Sydney, Australia"
-  employer         : "UNSW Sydney"
+  bio              : "Associate Professor at SJTU Global College"
+  location         : "Shanghai, China"
+  employer         : "Shanghai Jiao Tong University"
   uri              : 
   email            : "yizhang.he@unsw.edu.au"
 

@@ -24,7 +24,10 @@ redirect_from:
 
 ## Work Experience
 
-- **Associate Lecturer**, UNSW School of CSE (Aug 2025 – Present)  
+- **Associate Professor**, Global College, Shanghai Jiao Tong University (Jun 2026 – Present)  
+  Research and teaching in computer science and data analytics.
+
+- **Associate Lecturer**, UNSW School of CSE (Aug 2025 – Jun 2026)  
   Teaching COMP3311 Database Systems; marking and assessment; student advising; curriculum development.
 
 - **Postdoctoral Fellow**, UNSW School of CSE (Mar 2025 – Jul 2025)  

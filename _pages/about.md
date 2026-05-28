@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Lecturer (Teaching & Research) in the [School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering) at [University of New South Wales (UNSW)](https://www.unsw.edu.au/), Sydney. I am a member of the [Data and Knowledge Research Group](https://unswdb.github.io/). I obtained my PhD from UNSW in 2025, supervised by Scientia Prof. [Xuemin Lin](https://unswdb.github.io/people.html) and Prof. [Wenjie Zhang](https://unswdb.github.io/people.html).
+I am an Associate Professor at the [Global College](https://global.sjtu.edu.cn/) of [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/). Previously, I was an Associate Lecturer (Teaching & Research) in the [School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering) at [University of New South Wales (UNSW)](https://www.unsw.edu.au/), Sydney (Aug 2025 – Jun 2026). I am a member of the [Data and Knowledge Research Group](https://unswdb.github.io/). I obtained my PhD from UNSW in 2025, supervised by Scientia Prof. [Xuemin Lin](https://unswdb.github.io/people.html) and Prof. [Wenjie Zhang](https://unswdb.github.io/people.html).
 
 My research interests lie in **graph mining**, **privacy-preserving computation**, and **large language models**. In particular, I work on cohesive subgraph discovery, motif counting, and differential privacy for large-scale graph analytics. Link to [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ). Email: yizhang.he@unsw.edu.au.
 
 ## News
 
+- **Jun 2026**: Joined Shanghai Jiao Tong University as Associate Professor in the Global College.
 - **May 2026**: One paper submitted to EMNLP 2026.
 - **2025**: Three papers accepted at SIGMOD 2025, one at ICDE 2025, one at TKDE 2025.
 - **2024**: One paper accepted at VLDBJ, one at ICDE 2024.
