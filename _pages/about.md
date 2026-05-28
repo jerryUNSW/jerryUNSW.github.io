@@ -14,17 +14,6 @@ His research interests lie in **graph mining**, **privacy-preserving computation
 
 ---
 
-## News
-
-- **Jun 2026**: Joined Shanghai Jiao Tong University as Associate Professor in the Global College.
-- **May 2026**: One paper submitted to EMNLP 2026.
-- **2025**: Three papers accepted at SIGMOD 2025, one at ICDE 2025, one at TKDE 2025.
-- **2024**: One paper accepted at VLDBJ, one at ICDE 2024.
-- **2023**: One paper accepted at SIGMOD 2023.
-- **2022**: One paper accepted at ICDE 2022.
-
----
-
 ## <span id="publications">Publications</span>
 
 Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ).
@@ -34,6 +23,12 @@ Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+---
+
+## <span id="talks">Talks</span>
+
+*Coming soon.*
 
 ---
 
