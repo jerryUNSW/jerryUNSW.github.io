@@ -36,6 +36,14 @@ redirect_from:
 - **Casual Academic**, UNSW School of CSE (Dec 2024 – Aug 2025)  
   Teaching ZZEN9311 and COMP3311; marking and assessment.
 
+## Awards & Honors
+
+- **Early Career Academic Fellowship (ECAF)**, UNSW, Aug 2025
+- **Chinese Government Award for Outstanding Self-Financed Students Abroad (Category A)**, Jun 2025
+- **HDR Development and Research Training Grant (DRTG)**, Oct 2023 & Apr 2024
+- **Top-up Scholarship for Outstanding Research Performance**, UNSW, Nov 2022
+- **University International Postgraduate Award (UIPA)**, UNSW, Jun 2021
+
 ## Research Interests
 
 - Graph mining and cohesive subgraph computation
