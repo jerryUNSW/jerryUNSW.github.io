@@ -10,7 +10,9 @@ redirect_from:
 
 Yizhang He is currently an associate professor at the Global College of Shanghai Jiao Tong University. Before joining SJTU, he was an Associate Lecturer (Teaching & Research) in the School of Computer Science and Engineering at University of New South Wales from 2025 to 2026, and a Postdoctoral Fellow at UNSW in 2025. He got his Ph.D. in Computer Science from UNSW in 2025 and his bachelor's degree in Data Science from UNSW in 2019.
 
-My research interests lie in **graph mining**, **privacy-preserving computation**, and **large language models**. In particular, I work on cohesive subgraph discovery, motif counting, and differential privacy for large-scale graph analytics. Link to [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ). Email: yizhang.he@unsw.edu.au.
+His research interests lie in **graph mining**, **privacy-preserving computation**, and **large language models**. In particular, he works on cohesive subgraph discovery, motif counting, and differential privacy for large-scale graph analytics. Link to [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ). Email: yizhang.he@unsw.edu.au.
+
+---
 
 ## News
 
@@ -21,12 +23,28 @@ My research interests lie in **graph mining**, **privacy-preserving computation*
 - **2023**: One paper accepted at SIGMOD 2023.
 - **2022**: One paper accepted at ICDE 2022.
 
-## Selected Publications
+---
 
-- **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang, Wei Ni. *Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy*, SIGMOD 2025.
-- **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. *Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy*, SIGMOD 2025.
-- **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. *Discovering Critical Vertices for Reinforcement of Large-scale Bipartite Networks*, VLDBJ 2024.
-- **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Wei Ni, Ying Zhang. *Butterfly Counting over Bipartite Graphs with Local Differential Privacy*, ICDE 2024.
-- **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. *Scaling Up k-Clique Densest Subgraph Detection*, SIGMOD 2023.
+## <span id="publications">Publications</span>
 
-[Full publication list →](/publications/)
+Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ).
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
+
+## <span id="teaching">Teaching</span>
+
+{% for post in site.teaching %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
+
+## <span id="service">Academic Service</span>
+
+- **Reviewer**: ICDE, SIGMOD, VLDBJ, TKDE
