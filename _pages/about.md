@@ -8,20 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Data and Knowledge Research Group at CSE, UNSW, supervised by Scientia Prof. Xuemin Lin and Prof. Wenjie Zhang. 
+I am an Associate Lecturer (Teaching & Research) in the [School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering) at [University of New South Wales (UNSW)](https://www.unsw.edu.au/), Sydney. I am a member of the [Data and Knowledge Research Group](https://unswdb.github.io/). I obtained my PhD from UNSW in 2025, supervised by Scientia Prof. [Xuemin Lin](https://unswdb.github.io/people.html) and Prof. [Wenjie Zhang](https://unswdb.github.io/people.html).
 
-My research interests lie in:
-- Cohesive subgraph computation
-- Motif counting
-- Differential privacy
-- Graph algorithms
+My research interests lie in **graph mining**, **privacy-preserving computation**, and **large language models**. In particular, I work on cohesive subgraph discovery, motif counting, and differential privacy for large-scale graph analytics. Link to [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ). Email: yizhang.he@unsw.edu.au.
 
-## Education
+## News
 
-**PhD in Computer Science** (2022 - Present)  
-University of New South Wales (UNSW), Sydney, Australia  
-Supervisors: Prof. Xuemin Lin, Prof. Wenjie Zhang
+- **May 2026**: One paper submitted to EMNLP 2026.
+- **2025**: Three papers accepted at SIGMOD 2025, one at ICDE 2025, one at TKDE 2025.
+- **2024**: One paper accepted at VLDBJ, one at ICDE 2024.
+- **2023**: One paper accepted at SIGMOD 2023.
+- **2022**: One paper accepted at ICDE 2022.
 
-## Research Interests
+## Selected Publications
 
-My research focuses on efficient algorithms for large-scale graph analysis, with particular emphasis on privacy-preserving techniques and cohesive subgraph discovery.
+- **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang, Wei Ni. *Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy*, SIGMOD 2025.
+- **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. *Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy*, SIGMOD 2025.
+- **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. *Discovering Critical Vertices for Reinforcement of Large-scale Bipartite Networks*, VLDBJ 2024.
+- **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Wei Ni, Ying Zhang. *Butterfly Counting over Bipartite Graphs with Local Differential Privacy*, ICDE 2024.
+- **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. *Scaling Up k-Clique Densest Subgraph Detection*, SIGMOD 2023.
+
+[Full publication list →](/publications/)

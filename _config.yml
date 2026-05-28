@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Jerry He"
 title_separator          : "-"
 name                     : &name "Jerry He"
-description              : &description "PhD candidate in Data and Knowledge Research Group at UNSW"
+description              : &description "Associate Lecturer at UNSW Sydney. Research in graph mining, differential privacy, and LLMs."
 url                      : https://jerryunsw.github.io
 baseurl                  : ""
 repository               : "jerryunsw/jerryunsw.github.io"
@@ -21,9 +21,9 @@ repository               : "jerryunsw/jerryunsw.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jerry He"
+  name             : "Yizhang (Jerry) He"
   pronouns         : 
-  bio              : "Associate Lecturer at UNSW, teaching COMP3311"
+  bio              : "Associate Lecturer (Teaching & Research) at UNSW Sydney"
   location         : "Sydney, Australia"
   employer         : "UNSW Sydney"
   uri              : 
@@ -32,7 +32,7 @@ author:
   # Academic websites
   academia         : 
   arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=AeA4sfcAAAAJ"
   inspire-hep      : 
   impactstory      : 
   orcid            : 
@@ -154,24 +154,12 @@ analytics:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/jerryunsw
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: https://scholar.google.com/citations?user=AeA4sfcAAAAJ
 
 
 # Reading Files

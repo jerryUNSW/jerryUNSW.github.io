@@ -9,29 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computer Science, University of New South Wales (UNSW), 2022-Present
-  * Supervisors: Scientia Prof. Xuemin Lin, Prof. Wenjie Zhang
-  * Research Group: Data and Knowledge Research Group
-  * Focus: Graph algorithms, differential privacy, cohesive subgraph computation
+## Education
 
-Research Interests
-======
-* Cohesive subgraph computation
-* Motif counting
-* Differential privacy
-* Graph algorithms
-* Large-scale data analysis
+- **PhD in Computer Science** (Oct 2021 – Jul 2025)  
+  University of New South Wales, Sydney, Australia  
+  Supervisors: Scientia Prof. Xuemin Lin, Prof. Wenjie Zhang  
+  Research Group: Data and Knowledge Research Group
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- **MPhil in Computer Science** (Sept 2021)  
+  University of New South Wales, Sydney, Australia
+
+- **Bachelor of Data Science & Decisions** (Sept 2019)  
+  University of New South Wales, Sydney, Australia
+
+## Work Experience
+
+- **Associate Lecturer**, UNSW School of CSE (Aug 2025 – Present)  
+  Teaching COMP3311 Database Systems; marking and assessment; student advising; curriculum development.
+
+- **Postdoctoral Fellow**, UNSW School of CSE (Mar 2025 – Jul 2025)  
+  Research in privacy-preserving AI and differential privacy; developed GenText and GenText-QA frameworks for privacy-preserving question answering; collaboration with CSIRO Data61.
+
+- **Casual Academic**, UNSW School of CSE (Dec 2024 – Aug 2025)  
+  Teaching ZZEN9311 and COMP3311; marking and assessment.
+
+## Research Interests
+
+- Graph mining and cohesive subgraph computation
+- Motif counting in complex networks
+- Differential privacy (local and edge-LDP)
+- Privacy-preserving AI and LLMs
+- Large-scale graph algorithms
+
+## Publications
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Teaching
+
+<ul>{% for post in site.teaching %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Academic Service
+
+- **Reviewer**: ICDE, SIGMOD, VLDBJ, TKDE
