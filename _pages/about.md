@@ -34,12 +34,6 @@ Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA
 
 ---
 
-## <span id="talks">Talks</span>
-
-*Coming soon.*
-
----
-
 ## <span id="teaching">Teaching</span>
 
 ### As Lecturer
