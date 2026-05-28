@@ -41,6 +41,7 @@ redirect_from:
 
 ## Awards & Honors
 
+- **SIGMOD Travel Award**, ACM SIGMOD, 2025
 - **Early Career Academic Fellowship (ECAF)**, UNSW, Aug 2025
 - **Chinese Government Award for Outstanding Self-Financed Students Abroad (Category A)**, Jun 2025
 - **HDR Development and Research Training Grant (DRTG)**, Oct 2023 & Apr 2024
