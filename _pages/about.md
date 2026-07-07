@@ -16,7 +16,7 @@ His research interests lie in **big data analytics**, **large language models**,
 
 I am looking for self-motivated students for Ph.D., master's, and research internship opportunities. Students interested in big data analytics, graph mining, privacy-preserving AI, and large language models are welcome to contact me.
 
-Outstanding students may be recommended for opportunities at leading securities firms such as GF Securities and major technology companies such as Alibaba and ByteDance.
+Outstanding students may be recommended for opportunities at leading securities firms such as [GF Securities](https://www.gf.com.cn/) and major technology companies such as [Alibaba](https://www.alibaba.com/) and [ByteDance](https://www.bytedance.com/).
 
 ---
 
