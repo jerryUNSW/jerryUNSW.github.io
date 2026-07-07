@@ -18,8 +18,6 @@ I am looking for self-motivated students for Ph.D., master's, and research inter
 
 表现优秀者有机会获得内推到头部券商（GF Securities）和互联网大厂（Alibaba, ByteDance）的机会。
 
-[Email](mailto:jerryheyizhang@sina.com) / [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ)
-
 ---
 
 ## <span id="publications">Publications</span>
