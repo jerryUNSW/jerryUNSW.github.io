@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Yizhang He is joining Shanghai Jiao Tong University as an associate professor at the Global College in June 2026. Before joining SJTU, he was an Associate Lecturer (Teaching & Research) in the School of Computer Science and Engineering at [University of New South Wales](https://www.unsw.edu.au/) from 2025 to 2026, and a Postdoctoral Fellow at UNSW in 2025. He got his Ph.D. in Computer Science from UNSW in 2025, his M.Phil. in Computer Science from UNSW in 2021, and his bachelor's degree in Data Science from UNSW in 2019.
+Yizhang He is currently an associate professor at the Global College, Shanghai Jiao Tong University. Before joining SJTU, he was an Associate Lecturer (Teaching & Research) in the School of Computer Science and Engineering at [University of New South Wales](https://www.unsw.edu.au/) from 2025 to 2026, and a Postdoctoral Fellow at UNSW in 2025. He got his Ph.D. in Computer Science from UNSW in 2025, his M.Phil. in Computer Science from UNSW in 2021, and his bachelor's degree in Data Science from UNSW in 2019.
 
 His research interests lie in **big data analytics**, **large language models**, and **privacy-preserving AI**. In particular, he works on graph mining, cohesive subgraph discovery, motif counting, and differential privacy for large-scale data systems.
+
+## Prospective Students
+
+I am looking for self-motivated students for Ph.D., master's, and research internship opportunities. Students interested in big data analytics, graph mining, privacy-preserving AI, and large language models are welcome to contact me.
+
+表现优秀者有机会获得内推到头部券商（GF Securities）和互联网大厂（Alibaba, ByteDance）的机会。
 
 [Email](mailto:jerryheyizhang@sina.com) / [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ)
 
