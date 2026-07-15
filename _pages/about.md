@@ -30,8 +30,11 @@ Developing scalable algorithms for subgraph counting, densest subgraph discovery
 ### Large Language Models for Data Management
 Exploring how LLMs can be applied to classic database problems, including SQL query rewriting, relational data integration, and privacy-preserving question answering. These projects bridge my database background with the capabilities of modern language models.
 
-### LLM Security and Agent Systems
-Investigating jailbreak attacks and defense mechanisms for large language models, as well as context management strategies for LLM-based autonomous agents.
+### LLM Security
+Investigating both offensive and defensive aspects of LLM safety. On the attack side, developing black-box jailbreak methods that leverage structured attack memory and adaptive search strategies to systematically evaluate model vulnerabilities. On the defense side, exploring mechanisms to harden LLMs against adversarial prompts and unauthorized information disclosure. This line of work aims to bridge the gap between red-teaming practice and principled safety engineering.
+
+### LLM Agent Systems
+Developing context management strategies for LLM-based autonomous agents to operate effectively over long-horizon, multi-step tasks. This includes learning when and how to compress, retain, or discard information across extended interactions, and designing lightweight adaptation methods that enable a context manager trained on one task to transfer to new environments with minimal re-training.
 
 ---
 
