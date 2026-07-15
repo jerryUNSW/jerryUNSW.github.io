@@ -20,7 +20,7 @@ Outstanding students may be recommended for opportunities at leading securities 
 
 ---
 
-## <span id="ongoing">Ongoing Research</span>
+## <span id="ongoing">Research Directions</span>
 
 My current work spans the following directions. Detailed results are under submission or in preparation.
 
