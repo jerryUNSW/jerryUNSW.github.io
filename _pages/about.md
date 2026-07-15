@@ -20,6 +20,21 @@ Outstanding students may be recommended for opportunities at leading securities 
 
 ---
 
+## <span id="ongoing">Ongoing Research</span>
+
+My current work spans the following directions. Detailed results are under submission or in preparation.
+
+### Graph Mining under Differential Privacy
+Developing scalable algorithms for subgraph counting, densest subgraph discovery, and graph queries under local differential privacy. This line of work builds on my PhD thesis and continues with active collaborators.
+
+### Large Language Models for Data Management
+Exploring how LLMs can be applied to classic database problems, including SQL query rewriting, relational data integration, and privacy-preserving question answering. These projects bridge my database background with the capabilities of modern language models.
+
+### LLM Security and Agent Systems
+Investigating jailbreak attacks and defense mechanisms for large language models, as well as context management strategies for LLM-based autonomous agents.
+
+---
+
 ## <span id="publications">Publications</span>
 
 Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ).
@@ -37,21 +52,6 @@ Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA
 1. **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. Efficient Reinforcement of Bipartite Networks at Billion Scale, IEEE International Conference on Data Engineering (**ICDE**) , pages 446-458, 2022.
 1. Gengda Zhao, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang, **Yizhang He**. Efficient Computation of Cohesive Subgraphs in Uncertain Bipartite Graphs, IEEE International Conference on Data Engineering (**ICDE**) , pages 2333-2345, 2022.
 1. **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. Exploring Cohesive Subgraphs with Vertex Engagement and Tie Strength in Bipartite Graphs, **Information Sciences** , 572: 277-296, 2021.
-
----
-
-## <span id="ongoing">Ongoing Research</span>
-
-My current work spans the following directions. Detailed results are under submission or in preparation.
-
-### Graph Mining under Differential Privacy
-Developing scalable algorithms for subgraph counting, densest subgraph discovery, and graph queries under local differential privacy. This line of work builds on my PhD thesis and continues with active collaborators.
-
-### Large Language Models for Data Management
-Exploring how LLMs can be applied to classic database problems, including SQL query rewriting, relational data integration, and privacy-preserving question answering. These projects bridge my database background with the capabilities of modern language models.
-
-### LLM Security and Agent Systems
-Investigating jailbreak attacks and defense mechanisms for large language models, as well as context management strategies for LLM-based autonomous agents.
 
 ---
 
