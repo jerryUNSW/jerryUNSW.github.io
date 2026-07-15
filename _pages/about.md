@@ -40,6 +40,21 @@ Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA
 
 ---
 
+## <span id="ongoing">Ongoing Research</span>
+
+My current work spans the following directions. Detailed results are under submission or in preparation.
+
+### Graph Mining under Differential Privacy
+Developing scalable algorithms for subgraph counting, densest subgraph discovery, and graph queries under local differential privacy. This line of work builds on my PhD thesis and continues with active collaborators.
+
+### Large Language Models for Data Management
+Exploring how LLMs can be applied to classic database problems, including SQL query rewriting, relational data integration, and privacy-preserving question answering. These projects bridge my database background with the capabilities of modern language models.
+
+### LLM Security and Agent Systems
+Investigating jailbreak attacks and defense mechanisms for large language models, as well as context management strategies for LLM-based autonomous agents.
+
+---
+
 ## <span id="teaching">Teaching</span>
 
 ### As Lecturer
