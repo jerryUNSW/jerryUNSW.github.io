@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Jerry He"
 title_separator          : "-"
 name                     : &name "Jerry He"
-description              : &description "Joining SJTU Global College as Associate Professor. Research in graph mining, differential privacy, and LLMs."
+description              : &description "Associate Professor at SJTU Global College. Research in trustworthy graph analytics, data systems, and large language models."
 url                      : https://jerryunsw.github.io
 baseurl                  : ""
 repository               : "jerryunsw/jerryunsw.github.io"

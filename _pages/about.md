@@ -10,11 +10,11 @@ redirect_from:
 
 Yizhang He is currently an associate professor at the Global College, Shanghai Jiao Tong University. Before joining SJTU, he was an Associate Lecturer (Teaching & Research) in the School of Computer Science and Engineering at [University of New South Wales](https://www.unsw.edu.au/) from 2025 to 2026, and a Postdoctoral Fellow at UNSW in 2025. He was a member of the [Data and Knowledge Research Group](https://unswdb.github.io/index.html) at UNSW. He got his Ph.D. in Computer Science from UNSW in 2025, his M.Phil. in Computer Science from UNSW in 2021, and his bachelor's degree in Data Science from UNSW in 2019.
 
-His research interests lie in **big data analytics**, **large language models**, and **privacy-preserving AI**. In particular, he works on graph mining, cohesive subgraph discovery, motif counting, and differential privacy for large-scale data systems.
+His research interests lie in **big data analytics**, **trustworthy graph analytics**, and **large language models**. He is broadly interested in building reliable, privacy-aware, and intelligent data systems.
 
 ## Prospective Students
 
-I am looking for self-motivated students for Ph.D., master's, and research internship opportunities. Students interested in big data analytics, graph mining, privacy-preserving AI, and large language models are welcome to contact me.
+I am looking for self-motivated students for Ph.D., master's, and research internship opportunities. Students interested in big data analytics, trustworthy graph analytics, and large language models are welcome to contact me.
 
 Outstanding students may be recommended for opportunities at leading securities firms such as [GF Securities](https://www.gf.com.cn/) and major technology companies such as [Alibaba](https://www.alibaba.com/) and [ByteDance](https://www.bytedance.com/).
 
@@ -22,19 +22,19 @@ Outstanding students may be recommended for opportunities at leading securities 
 
 ## <span id="ongoing">Research Directions</span>
 
-My current work spans the following directions. Detailed results are under submission or in preparation.
+My current work spans the following broad directions. Detailed results are under submission or in preparation.
 
-### Graph Mining under Differential Privacy
-Developing scalable algorithms for subgraph counting, densest subgraph discovery, and graph queries under local differential privacy. This line of work builds on my PhD thesis and continues with active collaborators.
+### Trustworthy Graph Analytics
+Developing reliable and privacy-aware methods for analyzing large-scale graph data. This line of work builds on my PhD research and continues with active collaborators.
 
-### Large Language Models for Data Management
-Exploring how LLMs can be applied to classic database problems, including SQL query rewriting, relational data integration, and privacy-preserving question answering. These projects bridge my database background with the capabilities of modern language models.
+### Large Language Models for Data and Knowledge
+Exploring how large language models can support data-centric tasks, knowledge-intensive applications, and intelligent information systems.
 
 ### LLM Security
-Investigating both offensive and defensive aspects of LLM safety. On the attack side, developing black-box jailbreak methods that leverage structured attack memory and adaptive search strategies to systematically evaluate model vulnerabilities. On the defense side, exploring mechanisms to harden LLMs against adversarial prompts and unauthorized information disclosure. This line of work aims to bridge the gap between red-teaming practice and principled safety engineering.
+Investigating the safety, robustness, and security of large language models, with an emphasis on understanding and mitigating adversarial risks.
 
 ### LLM Agent Systems
-Developing context management strategies for LLM-based autonomous agents to operate effectively over long-horizon, multi-step tasks. This includes learning when and how to compress, retain, or discard information across extended interactions, and designing lightweight adaptation methods that enable a context manager trained on one task to transfer to new environments with minimal re-training.
+Developing methods that help LLM-based agents operate more effectively in long-horizon, multi-step, and data-rich environments.
 
 ---
 
@@ -42,6 +42,7 @@ Developing context management strategies for LLM-based autonomous agents to oper
 
 Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ).
 
+1. **Yizhang He** et al. Evolving Posterior Attack Memory Enhances LLM Jailbreak, manuscript under submission, 2026.
 1. **Yizhang He**, Wenjie Zhang, Kai Wang, Xuemin Lin, Ying Zhang, Wei Ni. Efficient and Effective Biclique Counting with Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (**SIGMOD**) , 2026.
 1. **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang, Wei Ni. Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (**SIGMOD**) , 2025.
 1. **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (**SIGMOD**) , 2025.
