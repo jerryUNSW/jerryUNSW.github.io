@@ -12,6 +12,15 @@ Yizhang He is currently an associate professor at the Global College, Shanghai J
 
 His research interests lie in **big data analytics**, **trustworthy graph analytics**, and **large language models**. He is broadly interested in building reliable, privacy-aware, and intelligent data systems.
 
+## News & Activities
+
+- **August 2026 — WISA 2026, Kunming.** I attended the [23rd CCF Conference on Web Information Systems and Applications (WISA 2026)](https://conf.ccf.org.cn/WISA2026) in Kunming, China. On the opening day, I delivered a talk at the Graduate Student Forum titled **“Computer Interdisciplinary Research in the Era of Data Intelligence: Problems, Methods, and Practice.”** The talk discussed how to transform complex real-world problems into computable, modelable, and verifiable research questions, with examples from user behavior analysis, financial technology, platform governance, and intelligent decision-making.
+
+<div style="display:flex; gap:1rem; flex-wrap:wrap; align-items:flex-start; margin:0.75rem 0 1.5rem;">
+  <img src="/images/wisa-2026-speaker-profile.png" alt="Yizhang He speaker profile at WISA 2026" style="flex:1 1 300px; min-width:0; max-width:440px; border-radius:8px;">
+  <img src="/images/wisa-2026-talk-abstract.png" alt="Abstract of Yizhang He's WISA 2026 Graduate Student Forum talk" style="flex:1 1 300px; min-width:0; max-width:440px; border-radius:8px;">
+</div>
+
 ## Prospective Students
 
 I am looking for self-motivated students for Ph.D., master's, and research internship opportunities. Students interested in big data analytics, trustworthy graph analytics, and large language models are welcome to contact me.
