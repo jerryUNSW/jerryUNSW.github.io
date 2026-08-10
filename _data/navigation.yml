@@ -7,5 +7,8 @@ main:
   - title: "Teaching"
     url: /#teaching
 
+  - title: "News & Activities"
+    url: /#news
+
   - title: "Service"
     url: /#service

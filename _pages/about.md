@@ -12,7 +12,7 @@ Yizhang He is currently an associate professor at the Global College, Shanghai J
 
 His research interests lie in **big data analytics**, **trustworthy graph analytics**, and **large language models**. He is broadly interested in building reliable, privacy-aware, and intelligent data systems.
 
-## News & Activities
+## <span id="news">News & Activities</span>
 
 - **August 2026 — Elected to the CCF TCIS Executive Committee.** I was elected as an Executive Committee Member of the [CCF Technical Committee on Information Systems (CCF TCIS)](https://tc.ccf.org.cn/tcis/) during WISA 2026 in Kunming, China.
 
