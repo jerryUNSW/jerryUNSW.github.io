@@ -26,19 +26,9 @@ Outstanding students may be recommended for opportunities at leading securities 
 
 ## <span id="ongoing">Research Directions</span>
 
-My current work spans the following broad directions. Detailed results are under submission or in preparation.
-
-### Trustworthy Graph Analytics
-Developing reliable and privacy-aware methods for analyzing large-scale graph data. This line of work builds on my PhD research and continues with active collaborators.
-
-### Large Language Models for Data and Knowledge
-Exploring how large language models can support data-centric tasks, knowledge-intensive applications, and intelligent information systems.
-
-### LLM Security
-Investigating the safety, robustness, and security of large language models, with an emphasis on understanding and mitigating adversarial risks.
-
-### LLM Agent Systems
-Developing methods that help LLM-based agents operate more effectively in long-horizon, multi-step, and data-rich environments.
+- **Trustworthy Graph Analytics**
+- **LLMs for Databases**
+- **LLM Security**
 
 ---
 
