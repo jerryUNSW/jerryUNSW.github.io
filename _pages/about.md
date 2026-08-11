@@ -14,9 +14,7 @@ His research interests lie in **big data analytics**, **trustworthy graph analyt
 
 ## <span id="news">News & Activities</span>
 
-- **August 2026 — Elected to the CCF TCIS Executive Committee.** I was elected as an Executive Committee Member of the [CCF Technical Committee on Information Systems (CCF TCIS)](https://tc.ccf.org.cn/tcis/) during WISA 2026 in Kunming, China.
-
-- **August 2026 — WISA 2026, Kunming.** I attended the [23rd CCF Conference on Web Information Systems and Applications (WISA 2026)](https://conf.ccf.org.cn/WISA2026) in Kunming, China. On the opening day, I delivered a talk at the Graduate Student Forum titled **“Computer Interdisciplinary Research in the Era of Data Intelligence: Problems, Methods, and Practice.”** The talk discussed how to transform complex real-world problems into computable, modelable, and verifiable research questions, with examples from user behavior analysis, financial technology, platform governance, and intelligent decision-making.
+- **August 2026 — WISA 2026, Kunming.** I delivered a talk at the Graduate Student Forum titled **“Computer Interdisciplinary Research in the Era of Data Intelligence: Problems, Methods, and Practice.”**
 
 ## Prospective Students
 
