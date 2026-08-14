@@ -70,6 +70,7 @@ Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA
 ## <span id="service">Academic Service</span>
 
 - **Executive Committee Member**: [CCF Technical Committee on Information Systems (CCF TCIS)](https://tc.ccf.org.cn/tcis/), 2026–present
+- **Program Committee Member**: AAAI Conference on Artificial Intelligence (AAAI 2027)
 - **Reviewer**: ICDE, SIGMOD, VLDBJ, TKDE
 
 ---
