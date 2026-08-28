@@ -37,7 +37,6 @@ Outstanding students may be recommended for opportunities at leading securities 
 
 Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ).
 
-1. **Yizhang He** et al. Evolving Posterior Attack Memory Enhances LLM Jailbreak, manuscript under submission, 2026.
 1. **Yizhang He**, Wenjie Zhang, Kai Wang, Xuemin Lin, Ying Zhang, Wei Ni. Efficient and Effective Biclique Counting with Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (**SIGMOD**) , 2026.
 1. **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang, Wei Ni. Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (**SIGMOD**) , 2025.
 1. **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (**SIGMOD**) , 2025.
