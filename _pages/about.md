@@ -14,7 +14,7 @@ His research interests lie in **big data analytics**, **trustworthy graph analyt
 
 ## <span id="news">News & Activities</span>
 
-- **August 2026 — Paper accepted by ACM Computing Surveys.** Our survey paper, **“Motif Counting in Complex Networks: A Comprehensive Survey,”** has been accepted for publication in **ACM Computing Surveys**.
+- **September 2026 — Survey paper published in ACM Computing Surveys.** Our survey paper, [**“Motif Counting in Complex Networks: A Comprehensive Survey”**](https://dl.acm.org/doi/10.1145/3844607), has been published online in **ACM Computing Surveys**.
 - **August 2026 — WISA 2026, Kunming.** I delivered a talk at the Graduate Student Forum titled **“Computer Interdisciplinary Research in the Era of Data Intelligence: Problems, Methods, and Practice.”**
 
 ## Prospective Students
