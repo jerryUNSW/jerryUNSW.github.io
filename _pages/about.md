@@ -14,6 +14,10 @@ His research interests lie in **big data analytics**, **trustworthy graph analyt
 
 ## <span id="news">News & Activities</span>
 
+- **September 2026 — International training program for officials from the Americas.** I delivered the lecture **“Industrial Upgrading and International Cooperation in the Age of AI”** at the BRICS AI Center in Shanghai to government officials from seven countries across the Americas. We discussed why the current AI wave is different, how AI creates value in the real economy, how foundation models become AI agents, and how cities can create environments where new technologies become real products.
+
+  <img src="/images/news/2026-09-08-ai-international-talk.jpg" alt="Yizhang He delivering a lecture on artificial intelligence to officials from the Americas in Shanghai" style="width: 100%; height: auto; margin-top: 0.6rem; border-radius: 6px;">
+
 - **September 2026 — Survey paper published in ACM Computing Surveys.** Our survey paper, [**“Motif Counting in Complex Networks: A Comprehensive Survey”**](https://dl.acm.org/doi/10.1145/3844607), has been published online in **ACM Computing Surveys**.
 - **August 2026 — WISA 2026, Kunming.** I delivered a talk at the Graduate Student Forum titled **“Computer Interdisciplinary Research in the Era of Data Intelligence: Problems, Methods, and Practice.”**
 
