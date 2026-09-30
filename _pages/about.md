@@ -14,6 +14,7 @@ His research interests lie in **big data analytics**, **trustworthy graph analyt
 
 ## <span id="news">News & Activities</span>
 
+- **September 2026 — Paper accepted at SIGMOD 2027.** Our paper **“Robust Coreness Estimation via H-index under Edge LDP”** has been accepted by **ACM SIGMOD 2027**.
 - **September 2026 — International training program for officials from the Americas.** I delivered the lecture **“Industrial Upgrading and International Cooperation in the Age of AI”** at the BRICS AI Center in Shanghai to government officials from seven countries across the Americas. We discussed why the current AI wave is different, how AI creates value in the real economy, how foundation models become AI agents, and how cities can create environments where new technologies become real products.
 
   <img src="/images/news/2026-09-08-ai-international-talk.jpg" alt="Yizhang He delivering a lecture on artificial intelligence to officials from the Americas in Shanghai" style="width: 100%; height: auto; margin-top: 0.6rem; border-radius: 6px;">
@@ -41,6 +42,7 @@ Outstanding students may be recommended for opportunities at leading securities 
 
 Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ).
 
+1. Zheyuan Dai, Xuliang Zhu, Kai Wang, **Yizhang He**, Fan Zhang, Xuemin Lin. Robust Coreness Estimation via H-index under Edge LDP, ACM SIGMOD International Conference on Management of Data (**SIGMOD**), 2027.
 1. **Yizhang He**, Wenjie Zhang, Kai Wang, Xuemin Lin, Ying Zhang, Wei Ni. Efficient and Effective Biclique Counting with Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (**SIGMOD**) , 2026.
 1. **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang, Wei Ni. Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (**SIGMOD**) , 2025.
 1. **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang. Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (**SIGMOD**) , 2025.
