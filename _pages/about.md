@@ -62,6 +62,7 @@ Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA
 ## <span id="teaching">Teaching</span>
 
 ### As Lecturer
+- **CS4840J Database Management Systems** — 2026 Fall, Shanghai Jiao Tong University
 - **COMP3311 Database Systems** — 2025 T3, 2026 T1
 - **ZZEN9311 Database Systems** — 2025 T3
 
