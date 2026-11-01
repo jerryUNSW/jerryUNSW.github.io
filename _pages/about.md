@@ -19,7 +19,7 @@ His research interests lie in **big data analytics**, **trustworthy graph analyt
 
   <img src="/images/news/2026-09-08-ai-international-talk.jpg" alt="Yizhang He delivering a lecture on artificial intelligence to officials from the Americas in Shanghai" style="width: 100%; height: auto; margin-top: 0.6rem; border-radius: 6px;">
 
-- **September 2026 — Survey paper published in ACM Computing Surveys.** Our survey paper, [**“Motif Counting in Complex Networks: A Comprehensive Survey”**](https://dl.acm.org/doi/10.1145/3844607), has been published online in **ACM Computing Surveys**.
+- **November 2026 — Survey paper published in ACM Computing Surveys.** Our survey paper, [**“Motif Counting in Complex Networks: A Comprehensive Survey”**](https://dl.acm.org/doi/10.1145/3844607), is now available in the **ACM Digital Library** and will appear in **ACM Computing Surveys, Volume 59, Issue 1**.
 - **August 2026 — WISA 2026, Kunming.** I delivered a talk at the Graduate Student Forum titled **“Computer Interdisciplinary Research in the Era of Data Intelligence: Problems, Methods, and Practice.”**
 
 ## Prospective Students
@@ -42,6 +42,7 @@ Outstanding students may be recommended for opportunities at leading securities 
 
 Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ).
 
+1. Haozhe Yin, Kai Wang, Wenjie Zhang, **Yizhang He**, Ying Zhang, Xuemin Lin. [Motif Counting in Complex Networks: A Comprehensive Survey](https://dl.acm.org/doi/10.1145/3844607), ACM Computing Surveys (**CSUR**), 59(1), 2027.
 1. Zheyuan Dai, Xuliang Zhu, Kai Wang, **Yizhang He**, Fan Zhang, Xuemin Lin. Robust Coreness Estimation via H-index under Edge LDP, ACM SIGMOD International Conference on Management of Data (**SIGMOD**), 2027.
 1. **Yizhang He**, Wenjie Zhang, Kai Wang, Xuemin Lin, Ying Zhang, Wei Ni. Efficient and Effective Biclique Counting with Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (**SIGMOD**) , 2026.
 1. **Yizhang He**, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang, Wei Ni. Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy, ACM SIGMOD International Conference on Management of Data (**SIGMOD**) , 2025.
