@@ -16,11 +16,13 @@ His research interests lie in **big data analytics**, **trustworthy graph analyt
 
 - **November 2026 — RLChina 2026, Shanghai.** I will attend the [**CCF Conference on Decision Intelligence (RLChina 2026)**](https://conf.ccf.org.cn/) at Shanghai Jiao Tong University's Xuhui Campus.
 - **November 2026 — Survey paper published in ACM Computing Surveys.** Our survey paper, [**“Motif Counting in Complex Networks: A Comprehensive Survey”**](https://dl.acm.org/doi/10.1145/3844607), is now available in the **ACM Digital Library** and will appear in **ACM Computing Surveys, Volume 59, Issue 1**.
+- **October 2026 — NDBC 2026, Shanghai.** I attended the [**43rd CCF China National Database Conference (NDBC 2026)**](https://ccf.org.cn/ndbc2026) in Shanghai.
 - **September 2026 — Paper accepted at SIGMOD 2027.** Our paper **“Robust Coreness Estimation via H-index under Edge LDP”** has been accepted by **ACM SIGMOD 2027**.
 - **September 2026 — International training program for officials from the Americas.** I delivered the lecture **“Industrial Upgrading and International Cooperation in the Age of AI”** at the BRICS AI Center in Shanghai to government officials from seven countries across the Americas. We discussed why the current AI wave is different, how AI creates value in the real economy, how foundation models become AI agents, and how cities can create environments where new technologies become real products.
 
   <img src="/images/news/2026-09-08-ai-international-talk.jpg" alt="Yizhang He delivering a lecture on artificial intelligence to officials from the Americas in Shanghai" style="width: 100%; height: auto; margin-top: 0.6rem; border-radius: 6px;">
 
+- **August 2026 — Elected to the CCF TCIS Executive Committee.** I was elected as an Executive Committee Member of the [**CCF Technical Committee on Information Systems (CCF TCIS)**](https://tc.ccf.org.cn/tcis/).
 - **August 2026 — WISA 2026, Kunming.** I delivered a talk at the Graduate Student Forum titled **“Computer Interdisciplinary Research in the Era of Data Intelligence: Problems, Methods, and Practice.”**
 
 ## Prospective Students
