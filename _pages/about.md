@@ -14,6 +14,11 @@ His research interests lie in **big data analytics**, **trustworthy graph analyt
 
 ## <span id="news">News & Activities</span>
 
+- **November 14, 2026 — IEEE ICDM 2026 Tutorial, Shenyang.** I will co-deliver the tutorial [**“Graph Computation in Modern Data Mining: Query Processing, Trustworthy Analytics, and LLMs”**](https://icdm2026.neu.edu.cn/Tutorials/list.htm) at **IEEE ICDM 2026**, presenting the section **“Trustworthy Graph Analytics.”**
+- **November 11, 2026 — Undergraduate Research Sharing at SJTU.** I delivered a talk titled **“How to Start Research as an Undergraduate”** at the second **Miyuan Face-to-Face** event at Shanghai Jiao Tong University.
+
+  <img src="/images/news/2026-11-11-undergraduate-research-talk.jpg" alt="Yizhang He answering a student question during an undergraduate research talk at Shanghai Jiao Tong University" style="width: 100%; height: auto; margin-top: 0.6rem; border-radius: 6px;">
+
 - **November 2026 — RLChina 2026, Shanghai.** I will attend the [**CCF Conference on Decision Intelligence (RLChina 2026)**](https://conf.ccf.org.cn/) at Shanghai Jiao Tong University's Xuhui Campus.
 - **November 2026 — Survey paper published in ACM Computing Surveys.** Our survey paper, [**“Motif Counting in Complex Networks: A Comprehensive Survey”**](https://dl.acm.org/doi/10.1145/3844607), is now available in the **ACM Digital Library** and will appear in **ACM Computing Surveys, Volume 59, Issue 1**.
 - **October 2026 — NDBC 2026, Shanghai.** I attended the [**43rd CCF China National Database Conference (NDBC 2026)**](https://ccf.org.cn/ndbc2026) in Shanghai.
