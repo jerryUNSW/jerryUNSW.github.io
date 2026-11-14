@@ -14,6 +14,7 @@ His research interests lie in **big data analytics**, **trustworthy graph analyt
 
 ## <span id="news">News & Activities</span>
 
+- **November 2026 — Paper accepted at KDD 2027.** Our paper [**“Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes”**](https://openreview.net/forum?id=nCB1bK4HYe) has been accepted by **KDD 2027**.
 - **November 2026 — New preprint on privacy-preserving graph analytics.** Our paper [**“Privacy-Preserving Range Counting over Local Graph Statistics”**](https://arxiv.org/abs/2611.16483) is now available on **arXiv**.
 - **November 14, 2026 — IEEE ICDM 2026 Tutorial, Shenyang.** I will co-deliver the tutorial [**“Graph Computation in Modern Data Mining: Query Processing, Trustworthy Analytics, and LLMs”**](https://icdm2026.neu.edu.cn/Tutorials/list.htm) at **IEEE ICDM 2026**, presenting the section **“Trustworthy Graph Analytics.”**
 - **November 11, 2026 — Undergraduate Research Sharing at SJTU.** I delivered a talk titled **“How to Start Research as an Undergraduate”** at the second **Miyuan Face-to-Face** event at Shanghai Jiao Tong University.
@@ -51,6 +52,7 @@ Outstanding students may be recommended for opportunities at leading securities 
 
 Also available on [Google Scholar](https://scholar.google.com/citations?user=AeA4sfcAAAAJ).
 
+1. Aoting Zeng, Kai Wang, Jianwei Wang, Yuxiang Sun, **Yizhang He**, Wenjie Zhang. [Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes](https://arxiv.org/abs/2608.06402), ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2027.
 1. Gengda Zhao, **Yizhang He**, Dong Wen, Kai Wang, Ruijia Wu, Jianwei Wang. [Privacy-Preserving Range Counting over Local Graph Statistics](https://arxiv.org/abs/2611.16483), arXiv:2611.16483, 2026.
 1. Haozhe Yin, Kai Wang, Wenjie Zhang, **Yizhang He**, Ying Zhang, Xuemin Lin. [Motif Counting in Complex Networks: A Comprehensive Survey](https://dl.acm.org/doi/10.1145/3844607), ACM Computing Surveys (**CSUR**), 59(1), 2027.
 1. Zheyuan Dai, Xuliang Zhu, Kai Wang, **Yizhang He**, Fan Zhang, Xuemin Lin. Robust Coreness Estimation via H-index under Edge LDP, ACM SIGMOD International Conference on Management of Data (**SIGMOD**), 2027.
